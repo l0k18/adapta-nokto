@@ -12,7 +12,7 @@
 		 "name": "String",
 		 "scope": "string",
 		 "settings": {
-			"foreground": "#cfc",
+			"foreground": "#6788C1",
 			"fontStyle": "italic",
 		 }
 	  },
@@ -20,14 +20,14 @@
 		 "name": "Boolean",
 		 "scope": "constant.language.boolean",
 		 "settings": {
-			"foreground": "#00BCD4"
+			"foreground": "#6788C1"
 		 }
 	  },
 	  {
 		 "name": "Number",
 		 "scope": "constant.numeric",
 		 "settings": {
-			"foreground": "#00BCD4"
+			"foreground": "#6788C1"
 		 }
 	  },
 
@@ -51,8 +51,8 @@
 		 "name": "Keyword",
 		 "scope": "keyword",
 		 "settings": {
-			"foreground": "#6788C1",
-			"fontStyle": "bold",
+			"foreground": "#ffffffa1",
+			// "fontStyle": "bold",
 		 }
 	  },
 	  {
@@ -104,8 +104,9 @@
 		 "name": "StorageType",
 		 "scope": "storage.type",
 		 "settings": {
-			"foreground": "#8f8"
-		 }
+			"foreground": "#8bb6ff",
+			"fontStyle": "bold",
+		}
 	  },
 	  {
 		"name": "StorageModifier",
