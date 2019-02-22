@@ -1,0 +1,21 @@
+{
+    "name": "adapta-nokto",
+    "displayName": "adapta-nokto",
+    "description": "Theme to match the Adapta Nokto theme of GTK+3",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Adapta Nokto",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Adapta Nokto-color-theme.json"
+            }
+        ]
+    }
+}
